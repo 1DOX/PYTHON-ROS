@@ -1,6 +1,3 @@
-# PYTHON-ROS
-Self-Driving Car System
-
 # Self-Driving Car System
 2021-02 Robot Programming Project
 - What is? : ROS(Robot Operating System) Project
