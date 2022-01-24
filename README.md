@@ -40,4 +40,6 @@ Ubuntu OS의 Docker를 이용한 가상 환경에서 Python, ROS, OpenCV 등을 
 <!-- USAGE EXAMPLES -->
 ## Project Demo
 
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xN7rU0_rKpc?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
