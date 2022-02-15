@@ -40,4 +40,5 @@ Ubuntu OS의 Docker를 이용한 가상 환경에서 Python, ROS, OpenCV 등을 
 <!-- USAGE EXAMPLES -->
 ## Project Demo
 
+아래 이미지를 클릭하면 프로젝트 데모(주행 영상)를 확인할 수 있습니다.  <br><br>
 [![Self-Driving Car System DEMO](https://img.youtube.com/vi/MfgGUjT_nIw/0.jpg)](https://youtu.be/MfgGUjT_nIw)
